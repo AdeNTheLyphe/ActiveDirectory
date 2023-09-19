@@ -1,5 +1,5 @@
 # Active Directory Home Lab
-![Active Directory / VMWare Network](https://imgur.com/XgWwlkS)
+![Active Directory / VMWare Network](Active Directory Setup Overview.png)
 
 ## Introduction
 
